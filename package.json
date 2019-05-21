@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Firenzia/sakura-ui.git"
+    "url": "git+https://github.com/rain-misty/sakura-ui.git"
   },
   "keywords": [
     "UI",
     "vue"
   ],
-  "author": "Firenzia",
+  "author": "rain-misty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Firenzia/sakura-ui/issues"
+    "url": "https://github.com/rain-misty/sakura-ui/issues"
   },
-  "homepage": "https://github.com/Firenzia/sakura-ui#readme",
+  "homepage": "https://github.com/rain-misty/sakura-ui#readme",
   "dependencies": {
     "vue": "^2.6.10",
     "vue-highlightjs": "^1.3.3"
